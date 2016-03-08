@@ -1,0 +1,62 @@
+
+====================================================
+
+2016-03-07 22:16:09 [ip] ::1 [navegador] Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+ [uri] /log/otro.php [script] C:/xampp7/htdocs/log/otro.php
+ [puerto] 49956 [metodo] GET
+
+====================================================
+2016-03-07 22:16:09 [ip] ::1 [otro2] [ERROR] Se produjo un error.
+2016-03-07 22:16:09 [ip] ::1 [otro2] [INFO] informacion.
+2016-03-07 22:16:09 [ip] ::1 [otro2] [DEBUG] debug.
+2016-03-07 22:16:09 [ip] ::1 [otro2] [WARN] adverterncia.
+2016-03-07 22:16:09 [ip] ::1 [otro2] [FATAL] fatal.
+2016-03-07 22:16:09 [ip] ::1 [otro2] [ERROR] cualquiera.
+2016-03-07 22:16:09 [ip] ::1 [otro] [ERROR] Se produjo un error.
+2016-03-07 22:16:09 [ip] ::1 [otro] [INFO] informacion.
+2016-03-07 22:16:09 [ip] ::1 [otro] [DEBUG] debug.
+2016-03-07 22:16:09 [ip] ::1 [otro] [WARN] adverterncia.
+2016-03-07 22:16:09 [ip] ::1 [otro] [FATAL] fatal.
+2016-03-07 22:16:09 [ip] ::1 [otro] [ERROR] cualquiera.
+
+====================================================
+
+2016-03-07 22:17:43 [ip] ::1 [navegador] Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+ [uri] /log/otro.php [script] C:/xampp7/htdocs/log/otro.php
+ [puerto] 49959 [metodo] GET
+
+====================================================
+
+2016-03-07 22:17:43 [ip] ::1 [otro2] [ERROR] Se produjo un error.
+2016-03-07 22:17:43 [ip] ::1 [otro2] [INFO] informacion.
+2016-03-07 22:17:43 [ip] ::1 [otro2] [DEBUG] debug.
+2016-03-07 22:17:43 [ip] ::1 [otro2] [WARN] adverterncia.
+2016-03-07 22:17:43 [ip] ::1 [otro2] [FATAL] fatal.
+2016-03-07 22:17:43 [ip] ::1 [otro2] [ERROR] cualquiera.
+2016-03-07 22:17:43 [ip] ::1 [otro] [ERROR] Se produjo un error.
+2016-03-07 22:17:43 [ip] ::1 [otro] [INFO] informacion.
+2016-03-07 22:17:43 [ip] ::1 [otro] [DEBUG] debug.
+2016-03-07 22:17:43 [ip] ::1 [otro] [WARN] adverterncia.
+2016-03-07 22:17:43 [ip] ::1 [otro] [FATAL] fatal.
+2016-03-07 22:17:43 [ip] ::1 [otro] [ERROR] cualquiera.
+
+====================================================
+
+2016-03-07 22:17:55 [ip] ::1 [navegador] Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+ [uri] /log/otro.php [script] C:/xampp7/htdocs/log/otro.php
+ [puerto] 49960 [metodo] GET
+
+====================================================
+
+2016-03-07 22:17:55 [ip] ::1 [otro2] [ERROR] Se produjo un error.
+2016-03-07 22:17:55 [ip] ::1 [otro2] [INFO] informacion.
+2016-03-07 22:17:55 [ip] ::1 [otro2] [DEBUG] debug.
+2016-03-07 22:17:55 [ip] ::1 [otro2] [WARN] adverterncia.
+2016-03-07 22:17:55 [ip] ::1 [otro2] [FATAL] fatal.
+2016-03-07 22:17:55 [ip] ::1 [otro2] [ERROR] cualquiera.
+2016-03-07 22:17:55 [ip] ::1 [otro] [ERROR] Se produjo un error.
+2016-03-07 22:17:55 [ip] ::1 [otro] [INFO] informacion.
+2016-03-07 22:17:55 [ip] ::1 [otro] [DEBUG] debug.
+2016-03-07 22:17:55 [ip] ::1 [otro] [WARN] adverterncia.
+2016-03-07 22:17:55 [ip] ::1 [otro] [FATAL] fatal.
+2016-03-07 22:17:55 [ip] ::1 [otro] [ERROR] cualquiera.

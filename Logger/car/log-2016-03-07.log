@@ -1,0 +1,14 @@
+
+====================================================
+
+2016-03-07 22:18:32 [ip] ::1 [navegador] Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+ [uri] /log/car/ [script] C:/xampp7/htdocs/log/car/index.php
+ [puerto] 49962 [metodo] GET
+
+====================================================
+2016-03-07 22:18:32 [ip] ::1 [index] [ERROR] Se produjo un error.
+2016-03-07 22:18:32 [ip] ::1 [index] [INFO] informacion.
+2016-03-07 22:18:32 [ip] ::1 [index] [DEBUG] debug.
+2016-03-07 22:18:32 [ip] ::1 [index] [WARN] adverterncia.
+2016-03-07 22:18:32 [ip] ::1 [index] [FATAL] fatal.
+2016-03-07 22:18:32 [ip] ::1 [index] [ERROR] cualquiera.
